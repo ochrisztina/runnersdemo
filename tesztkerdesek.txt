@@ -11,6 +11,7 @@ C. A projektek erőforrásainak maximalizálása
 D. Csak a projektek kezdeti szakaszában való alkalmazás
 
 Válasz:
+B. A munkafolyamatok átláthatóságának és hatékonyságának javítása
 
 Kérdés 2:
 Melyik állítás igaz a Kanban módszertannal kapcsolatban?
@@ -21,6 +22,7 @@ C. A Kanban módszertan csak IT projektekben alkalmazható
 D. A Kanban módszertan szerint minden csapatnak ugyanazokat a munkafolyamatokat kell használnia
 
 Válasz:
+B. A Kanban módszertan lehetővé teszi a csapatok számára, hogy folyamatosan és rugalmasan javítsák a munkafolyamatokat
 
 Kérdés 3:
 Mi a "Work In Progress" (WIP. limit a Kanban módszertanban?
@@ -31,6 +33,7 @@ C. Az egyes munkafázisokhoz rendelt időkorlát
 D. A projektenként elkülönített erőforrások maximális száma
 
 Válasz:
+A. A csapat által párhizamosan elvégzendő feladatok maximális száma
 
 Kérdés 4:
 Melyik elem NEM része a Kanban táblának?
@@ -41,6 +44,7 @@ C. WIP limitek
 D. Ütemterv
 
 Válasz:
+D. Ütemterv
 
 Kérdés 5:
 Milyen szerepkör nem létezik a Scrum keretrendszerben?
@@ -51,6 +55,7 @@ C. Development Team
 D. Quality Analyst
 
 Válasz:
+D. Quality Analyst
 
 Kérdés 6:
 Mire utal a "User Story" kifejezés az Agile keretrendszerekben?
@@ -61,6 +66,7 @@ C. Egy felhasználói igény leírására
 D. Egy hibajavításra
 
 Válasz:
+C. Egy felhasználói igény leírására
 
 Kérdés 7:
 Melyik az alábbiak közül NEM az Agile Alapelvek között található?
@@ -71,6 +77,7 @@ C. A rugalmas válaszadás a változásokra
 D. A dokumentáció fontossága minden másnál
 
 Válasz:
+D. A dokumentáció fontossága minden másnál
 
 Kérdés 8:
 Mi az a Kanban módszer?
@@ -81,6 +88,7 @@ C. Egy projektmenedzsment módszer
 D. Egy teljesítményértékelési módszer
 
 Válasz:
+B. Egy vizuális menedzsment rendszer
 
 Kérdés 9:
 Melyik az alábbiak közül nem számít Agile módszertannak?
@@ -91,6 +99,7 @@ C. Lean Software Development
 D. Vízesés modell
 
 Válasz:
+D. Vízesés modell
 
 Kérdés 10:
 Mi a "Velocity" az Agile módszertanban?
@@ -101,3 +110,4 @@ C. A fejlesztői csapat elvégzett munka mennyisége egy időperiódus alatt
 D. A fejlesztői csapat számbeli létszáma
 
 Válasz:
+C. A fejlesztői csapat elvégzett munka mennyisége egy időperiódus alatt
